@@ -178,7 +178,7 @@ body {
 		align-content: center;
 	}
 
-	.btn + .btn {
+	.btn {
 		margin-top: 20px;
 	}
 }
