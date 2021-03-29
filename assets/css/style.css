@@ -160,6 +160,7 @@ body {
 .alert-section__desc {
 	padding-top: 5px;
 	font-size: 14px;
+	line-height: 1.5;
 }
 
 .alert-section__icon--close {
